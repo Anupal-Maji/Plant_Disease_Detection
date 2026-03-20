@@ -1,0 +1,7 @@
+{
+  "name": "AgriShield",
+  "description": "AI-powered crop disease detection.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
